@@ -1,3 +1,1 @@
-# print("namstey  i am learning python ")
-gaurav = input("enter name: ")
-print(gaurav.replace("  "," "))
+print("namstey  i am learning python ")
