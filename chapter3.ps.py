@@ -2,15 +2,15 @@
 #Afternoon using input () function.
 
 a = input("write your name:")
-print("good afternoon ",a)
+print(f"good afternoon {a} ")
 
 #Q2 Write a program to fill in a letter template given below with name and date
 letter = '''
-Dear <|gaurav|>,
+Dear <|name|>,
 You are selected!
-<|15|07|>
+<date>
 '''
-print(letter)
+print(letter.replace("<|name|>","gaurav").replace("<date>","15 july"))
 
 #Q3 Write a program to detect double space in a string.
 
