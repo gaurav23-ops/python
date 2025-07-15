@@ -12,12 +12,12 @@ marks = {
     "priyanka":33,
     "arrti":99
 }
-# marks.items()
+marks.items()
 # print(marks.keys())
 # marks.update({"gaurav":99 , "pawan":56})
 # print(marks.get("gaurav1"))
-# marks.pop("gaurav")
-marks.popitem()
+marks.pop("gaurav")
+#marks.popitem()
 print(marks)
 
 #set 
