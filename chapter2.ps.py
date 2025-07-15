@@ -45,5 +45,3 @@ print("the avrage of that number",(a+b)/2)
 a = int(input("Enter the numbre"))
 print("the number is :",a)
 print("the answer is:", a*a)
-
-

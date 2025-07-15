@@ -26,5 +26,8 @@ print(b.translate(n))
 
 
 # escape str character 
-a = "gaurav is good boy also not bad boy  gaurar\r so  i can hired you"
+a = "gaurav is good boy also not bad boy so  i can hired you"
 print(a)
+
+
+
